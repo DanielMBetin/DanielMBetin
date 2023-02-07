@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Daniel Mendoza
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning basic programmin
+- 🌱 I’m currently learning basic programming
