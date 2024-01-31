@@ -6,5 +6,4 @@ I like to research and expand my knowledge. I adapt quickly to new environments 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScriptLogo" width="200"/><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HtmlLogo" width="200" /><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSSLogo" width="200" />
 
 # Software 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="FigmaIcon" width="200" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="PhotoshopIcon" width="200"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="FigmaIcon" width="200" /><img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="PhotoshopIcon" width="200"/>
