@@ -5,3 +5,4 @@ I like to research and expand my knowledge. I adapt quickly to new environments 
 </br> ![JavaScript_Icon](https://cdn-icons-png.flaticon.com/512/5968/5968292.png) ![Html_Icon](https://cdn-icons-png.flaticon.com/512/732/732212.png) ![CSS_Icon](https://cdn-icons-png.flaticon.com/512/732/732190.png)
 # Software 
 </br> ![Photoshop_Icon](https://cdn-icons-png.flaticon.com/512/5968/5968520.png) ![Figma_Icon](https://cdn-icons-png.flaticon.com/512/5968/5968705.png)
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Photoshop" width="200"/>
